@@ -11,7 +11,7 @@ I had deleted some feature from original resource at https://github.com/SomnathD
 6) Can return information about anime.
 7) Can return COVID-INFO for any country.
 8) Can return memes.
-```
+
 
 ### :wink:  Also there are some hidden commands and keywords.
 
@@ -22,7 +22,7 @@ Thanks, Have a great day!  :smile:
 
 ```bash
 > git clone https://github.com/khavitidala/totsuka.git
-
+```
 ## Install the dependencies:
 Before running the below command, make sure you're in the project directory that
 you've just cloned!!
